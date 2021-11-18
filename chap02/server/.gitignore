@@ -1,0 +1,18 @@
+dist/
+.webpack/
+*.log
+.env
+.idea
+.database
+
+# Dependency directories
+node_modules
+log
+# Optional eslint cache
+.eslintcache
+.DS_Store
+# Environment
+
+.vscode
+package-lock.json
+
