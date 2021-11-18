@@ -1,2 +1,3 @@
-# WebSocket API
-WebSocket is an event-driven, full-duplex asynchronous communications channel for your web applications.
+# Simple WebSocket App
+This chapter introduced WebSocket and how to build a simple echo server using Node.js.
+We saw how to build a simple client for testing your WebSocket server, along with one simple way to test your WebSocket server using Chrome Developer Tools.
